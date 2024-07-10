@@ -2,6 +2,8 @@
 
 This sample demonstrates How to display data labels inside segments in .NET MAUI SfCartesian Chart for better understandable visualization using column series available properties of LabelTemplate, LabelPlacement and BarAlignment.
 
+![Screenshot 2024-07-10 125122](https://github.com/SyncfusionExamples/How-to-display-data-labels-inside-segments-in-.NET-MAUI-SfCartesian-Chart/assets/124584591/d7bd2fba-715c-4c01-8e91-eb63b2698906)
+
 In this sample, we customize the chart using following features.
 
 * LabelTemplate: This feature allows users to customize the appearance of data labels. By defining a label template, users can control the layout, style, and content of the labels, making the data representation more informative and visually appealing.
@@ -18,4 +20,4 @@ In this sample, we customize the chart using following features.
     * Top: Aligns the label at the top of the column.
     * Bottom: Aligns the label at the bottom of the column.
 
-
+For more information about the sample refer the [KB article]().
