@@ -19,12 +19,6 @@
                 <charts:NumericalAxis/>
             </charts:SfCartesianChart.YAxes>
 
-            <charts:SfCartesianChart.Resources>
-                <DataTemplate x:Key="Template">
-                    <Label Text="{Binding Item.Name}" TextColor="White" FontSize="Large" FontAttributes="Bold" Rotation="-90"/>
-                </DataTemplate>
-            </charts:SfCartesianChart.Resources>
-
             <charts:SfCartesianChart.Series>
                 <charts:ColumnSeries ItemsSource="{Binding Data}" PaletteBrushes="{Binding CustomBrushes}"
                              XBindingPath="Name"
