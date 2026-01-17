@@ -20,4 +20,4 @@ In this sample, we customize the chart using following features.
     * [Inner](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.DataLabelPlacement.html#Syncfusion_Maui_Charts_DataLabelPlacement_Inner): Places the label inside of the Label Bar Alignmnet.
     * [Outer](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.DataLabelPlacement.html#Syncfusion_Maui_Charts_DataLabelPlacement_Outer): Places the label outside of the Label Bar Alignmnet.
 
-For more information about the sample refer the [KB article]().
+For more information about the sample refer the [KB article](https://support.syncfusion.com/kb/article/16573/how-to-display-data-labels-inside-segments-in-net-maui-sfcartesian-chart).
